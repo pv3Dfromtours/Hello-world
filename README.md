@@ -1,19 +1,24 @@
+50 ans, marié.
+
+
+
 ## Imprimeur 3D
 
 J'ai créé en _septembre 2017_ mon entreprise en impression 3D pour la réalisation de pièces fonctionnelles pour les **Industriels**.
-
+Voici une des vision de ce que l'impression 3D va révolutionner dans un avenir proche :
+[Link](https://www.youtube.com/watch?v=2G4cmHl1nuw)
 
 ## Acheteur
 
-J'ai été, _durant 3 ans_, Acheteur dans l'**Industrie Automobile** pour des pièces mécaniques et de la chimie.
+J'ai été, _durant 3 ans_, Acheteur dans l'**Industrie Automobile** pour la gestion d'un panel de 100 fournisseurs de pièces mécaniques, textile et chimie.
 
 
 ## Technicien Qualité
 _Durant 26 ans_ j'ai exercé le métier de qualiticien à divers postes dans l'Industrie Automobile, Qualité interne, clients, système, fournisseurs. 
-- J'ai nottamment mis en place les normes ISO 9001 et ISO/TS 16949 (spécifique automobile).
+- J'ai notamment mis en place les normes ISO 9001 et ISO/TS 16949 (standard qualité spécifique automobile).
 - J'ai également développé mes outils qualité sous VBA Excel (suivi des litiges fournisseurs, intérogations de bases .DBF, avec réalisation de liaisons bases-formulaires, boites de dialogues, intégration d'images...)
 
-
+### Titulaire d'un diplôme de DUT en Génie Mécanique et Productique _1990_
 
 
 
