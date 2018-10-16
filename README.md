@@ -1,5 +1,21 @@
 ## Imprimeur 3D
 
+J'ai créé en _septembre 2017_ mon entreprise en impression 3D pour la réalisation de pièces fonctionnelles pour les **Industriels**.
+
+
+## Acheteur
+
+J'ai été, _durant 3 ans_, Acheteur dans l'**Industrie Automobile** pour des pièces mécaniques et de la chimie.
+
+
+## Technicien Qualité
+_Durant 26 ans_ j'ai exercé le métier de qualiticien à divers postes dans l'Industrie Automobile, Qualité interne, clients, système, fournisseurs. J'ai nottamment mis en place les normes ISO 9001 et ISO/TS 16949 (spécifique automobile).
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/pv3Dfromtours/Hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
