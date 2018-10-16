@@ -1,5 +1,13 @@
 50 ans, marié.
 
+### Pourquoi une formation Developpeur Web à CEFIM?
+1. Parce que la programmation me plaît (vous le verrez ci-dessous)
+2. Parce que c'est un marché en pleine expansion où il y a encore de bonne places à prendre
+3. Parce que suite à la présentation sur la formation à laquelle j'ai pu assisté à CEFIM, j'ai trouvé la formule super!
+4. J'ai envie d'innover, de trouver de nouvelles façons de présenter les choses sur le WEB, plus spaciales... (c'est mon coté 3D :wink:)
+5. Et si possible poursuivre sur du développement d'apps mobile
+
+# Mon parcours
 
 ## Imprimeur 3D
 
