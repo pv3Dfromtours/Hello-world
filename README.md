@@ -42,8 +42,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-![Image](https://image.spreadshirtmedia.net/image-server/v1/mp/products/T6A231MPA4PT17X22Y74D120777072S54/views/1,width=378,height=378,appearanceId=231,backgroundColor=E8E8E8,modelId=1405,crop=list,version=1534416760/thanks-you-t-shirt-homme.jpg)
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
@@ -54,4 +52,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
