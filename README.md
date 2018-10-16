@@ -6,7 +6,7 @@
 
 J'ai créé en _septembre 2017_ mon entreprise en impression 3D pour la réalisation de pièces fonctionnelles pour les **Industriels**.
 - Voici une des vision de ce que l'impression 3D va révolutionner dans un avenir proche :[Digital spare parts!](https://www.youtube.com/watch?v=2G4cmHl1nuw)
-- Voici par ailleurs ma page Facebook Pro : [3DVP Facebook PRO].(https://www.facebook.com/MY3DVP/)
+- Voici par ailleurs ma page Facebook Pro : [3D Facebook Pro](https://www.facebook.com/MY3DVP/)
 
 ## Acheteur
 
