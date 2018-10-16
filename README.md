@@ -9,7 +9,9 @@ J'ai été, _durant 3 ans_, Acheteur dans l'**Industrie Automobile** pour des pi
 
 
 ## Technicien Qualité
-_Durant 26 ans_ j'ai exercé le métier de qualiticien à divers postes dans l'Industrie Automobile, Qualité interne, clients, système, fournisseurs. J'ai nottamment mis en place les normes ISO 9001 et ISO/TS 16949 (spécifique automobile).
+_Durant 26 ans_ j'ai exercé le métier de qualiticien à divers postes dans l'Industrie Automobile, Qualité interne, clients, système, fournisseurs. 
+- J'ai nottamment mis en place les normes ISO 9001 et ISO/TS 16949 (spécifique automobile).
+- J'ai également développé mes outils qualité sous VBA Excel (suivi des litiges fournisseurs, intérogations de bases .DBF, avec réalisation de liaisons bases-formulaires, boites de dialogues, intégration d'images...)
 
 
 
