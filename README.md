@@ -20,7 +20,8 @@ _Durant 26 ans_ j'ai exercé le métier de qualiticien à divers postes dans l'I
 
 ### Titulaire d'un diplôme de DUT en Génie Mécanique et Productique _1990_
 
-
+### Centres d'intérêts
+- L'impression 3D évidemment :wink:
 
 
 You can use the [editor on GitHub](https://github.com/pv3Dfromtours/Hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
