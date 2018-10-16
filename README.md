@@ -2,10 +2,11 @@
 
 ### Pourquoi une formation Developpeur Web à CEFIM?
 1. Parce que la programmation me plaît (vous le verrez ci-dessous)
-2. Parce que c'est un marché en pleine expansion où il y a encore de bonne places à prendre
-3. Parce que suite à la présentation sur la formation à laquelle j'ai pu assisté à CEFIM, j'ai trouvé la formule super!
-4. J'ai envie d'innover, de trouver de nouvelles façons de présenter les choses sur le WEB, plus spaciales... (c'est mon coté 3D :wink:)
-5. Et si possible poursuivre sur du développement d'apps mobile
+2. Parce que c'est un marché en pleine expansion où il y a encore de bonnes places à prendre
+3. J'arrive en fin de droit PE et l'impression 3D dans laquelle je suis lancé depuis 1 an ne débouche pas assez rapidement.
+4. Parce que suite à la présentation sur la formation à laquelle j'ai pu assisté à CEFIM, j'ai trouvé la formule super!
+5. J'ai envie d'innover, de trouver de nouvelles façons de présenter les choses sur le WEB, plus spaciales... (c'est mon coté 3D :wink:)
+6. Et si possible poursuivre sur du développement d'apps mobile
 
 # Mon parcours
 
