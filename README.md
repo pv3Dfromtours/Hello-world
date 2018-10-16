@@ -1,7 +1,6 @@
 50 ans, marié.
 
 
-
 ## Imprimeur 3D
 
 J'ai créé en _septembre 2017_ mon entreprise en impression 3D pour la réalisation de pièces fonctionnelles pour les **Industriels**.
@@ -19,44 +18,16 @@ _Durant 26 ans_ j'ai exercé le métier de qualiticien à divers postes dans l'I
 - J'ai également développé mes outils qualité sous VBA Excel (suivi des litiges fournisseurs, intérogations de bases .DBF, avec réalisation de liaisons bases-formulaires, boites de dialogues, intégration d'images...)
 
 ### Titulaire d'un diplôme de DUT en Génie Mécanique et Productique _1990_
+- Plusieurs formations Achats et Qualité dont une partie Certifiante et le reste en interne.
 
 ### Centres d'intérêts
-- L'impression 3D évidemment :wink:
+- L'impression 3D évidemment :grin:
+- Le bricolage, surtout les idées originales, et là encore l'impression 3D ouvre un énorme potentiel!!
+- La programmation (en Excel VBA, c'est pour l'instant le seul langage que je maitrise, mais qui m'a permis de gérer mes devis et factures clients automatiquement!)
+- Youtube, Pinterest pour les tutos et les idées qui foisonnent.
+- Le cinéma, les découvertes scientifiques, les relations humaines...
 
-
-You can use the [editor on GitHub](https://github.com/pv3Dfromtours/Hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pv3Dfromtours/Hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Réseaux sociaux
+- [Facebook](https://www.facebook.com/pascal.vigny.777)
+- [Linkedin](https://www.linkedin.com/in/pascal-vigny-b96765157/)
 
